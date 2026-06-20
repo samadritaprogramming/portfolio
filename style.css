@@ -1,8 +1,7 @@
-style.css
-background{
-  background-color: #eaf3ff;
-  fontfamily: Raleway, sans-serif;
-  margin:40px;
+body {
+    background-color: #eaf3ff;
+    font-family: 'Raleway', sans-serif;
+    margin: 40px;
 }
 
 h1 {
@@ -12,6 +11,7 @@ h1 {
 h2 {
     color: #2563eb;
 }
+
 ul {
     background-color: white;
     padding: 20px;
